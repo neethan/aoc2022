@@ -1,5 +1,3 @@
-from itertools import islice
-print(-1 % 58)
 totalscore = 0
 with open("input.txt") as f:
 	while True:
